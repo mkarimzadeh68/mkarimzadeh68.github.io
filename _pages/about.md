@@ -9,7 +9,7 @@ redirect_from:
 ---  
 Welcome to my personal website!
 
-I am currently a Ph.D. student in the [Bradley Department of Electrical and Computer Engineering](https://ece.vt.edu) at [Virginia Tech](https://vt.edu) under supervision of [Walid Saad](https://www.netsciwis.com/), since 2021. I received my B.Sc. degree in Electrical Engineering from the [Amirkabir University of Technology](https://aut.ac.ir/en), Iran in 2012, my M.Sc. degree in Electrical Engineering from the [Sharif University of Technology](https://en.sharif.edu/), Iran in 2014, and Ph.D. degree in Electrical Engineering from the [University of Tehran](https://ut.ac.ir/en), Iran in 2020, Iran, in 2012 and 2014, respectively.
+I am currently a Ph.D. student in the [Bradley Department of Electrical and Computer Engineering](https://ece.vt.edu) at [Virginia Tech](https://vt.edu) under supervision of [Walid Saad](https://www.netsciwis.com/), since 2021. I received my B.Sc. degree in Electrical Engineering from the [Amirkabir University of Technology](https://aut.ac.ir/en), Iran in 2012, my M.Sc. degree in Electrical Engineering from the [Sharif University of Technology](https://en.sharif.edu/), Iran in 2014, and Ph.D. degree in Electrical Engineering from the [University of Tehran](https://ut.ac.ir/en), Iran in 2020.
 
 
 Research Interests
@@ -21,25 +21,15 @@ Research Interests
 
 News
 ======
-* [2022 May] Joined [Qualcomm Technologies, Inc.](https://www.qualcomm.com) as a **Senior Engineer**.
-* [2022 May] Defended **Ph.D. Dissertation** with title "[Drone Cellular Networks: Fundamentals, Modeling, and Analysis](https://vtechworks.lib.vt.edu/handle/10919/110919)" from [Virginia Tech](https://vt.edu).
-* [2022 May] Submitted **journal** paper "[Fundamentals of Wobbling and Hardware Impairments-Aware Air-to-Ground Channel Model](https://arxiv.org/abs/2205.10957)" to *IEEE Transactions on Wireless Communications*.
-* [2022 May] Submitted **conference** paper "Wobbling and Impairments-Aware Channel Model and its Implications on High-Frequency UAV Links" to *IEEE Global Communications Conference (GLOBECOM)*, Rio de Janeiro, Brazil.
-* [2022 January] **Journal** paper "[3D Two-Hop Cellular Networks with Wireless Backhauled UAVs: Modeling and Fundamentals](https://ieeexplore.ieee.org/document/9712177)" is accepted for publication in *IEEE Transactions on Wireless Communications*.
-* [2021 December] Presented **conference** paper "[Fundamentals of 3D Two-Hop Cellular Networks Analysis with Wireless Backhauled UAVs](https://ieeexplore.ieee.org/document/9685132)" virtually in *IEEE Global Communications Conference (GLOBECOM)* at Madrid, Spain.
-* [2021 May] Joined [Qualcomm Technologies, Inc.](https://www.qualcomm.com) as a **System Engineering Intern**.
-* [2021 May] Passed **Ph.D. Preliminary Exam**.
-* [2020 December] **Book chapter** "[Stochastic Geometry-Based Performance Analysis of Drone Cellular Networks](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119575795.ch9)" is published in Wiley for the book *[UAV Communications for 5G and Beyond](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119575795)*.
-* [2020 September] **Journal** paper "[Impact of UAV Wobbling on the Air-to-Ground Wireless Channel](https://ieeexplore.ieee.org/abstract/document/9206092)" is published in *IEEE Transactions on Vehicular Technology*.
-* [2020 July] **Journal** paper "[Performance Characterization of Canonical Mobility Models in Drone Cellular Networks](https://ieeexplore.ieee.org/abstract/document/9078878)" is published in *IEEE Transactions on Wireless Communications*.
-* [2020 July] **Journal** paper "[Handover Probability in Drone Cellular Networks](https://ieeexplore.ieee.org/abstract/document/9003219)" is published in *IEEE Wireless Communications Letters*.
-* [2020 May] Joined [Qualcomm Technologies, Inc.](https://www.qualcomm.com) as a **System Engineering Intern**.
-* [2019 December] Presented **conference** papers "[Fundamentals of Drone Cellular Network Analysis under Random Waypoint Mobility Model](https://ieeexplore.ieee.org/abstract/document/9013341)" and "[3GPP-Inspired Stochastic Geometry-Based Mobility Model for a Drone Cellular Network](https://ieeexplore.ieee.org/abstract/document/9013645)" in *IEEE Global Communications Conference (GLOBECOM)* at Waikoloa, Hawaii, USA.
-* [2019 June] Passed **Ph.D. Qualification Exam**.
-* [2018 January] Joined [Wireless@VirginiaTech](https://wireless.vt.edu) as a **Ph.D. Student**.
-* [2016 May] **Conference** paper "[Bounds on the Coverage Probability of Heterogeneous Cellular Networks](https://ieeexplore.ieee.org/abstract/document/7503878)" is published in *IEEE International Conference on Communications (ICC) Workshops*.
-* [2016 April] **Journal** paper "[Power Distribution of Device-to-Device Communications in Underlaid Cellular Networks](https://ieeexplore.ieee.org/abstract/document/7383234)" is published in *IEEE Wireless Communications Letters*.
-* [2014 September] Defended **M.Sc. Thesis** with title "[A Stochastic Geometric Approach for the Analysis and Design of Cognitive Device-to-Device Networks](Morteza_MSc_Thesis.pdf)" from [University of Tehran](https://ut.ac.ir/en) (In Persian).
-* [2012 September] Joined [University of Tehran](https://ut.ac.ir/en) as an **M.Sc. Student**.
-* [2012 September] Defended **B.Sc. Project** with title "[Carrier and Symbol Synchronization Techniques](Morteza_BSc_Project.pdf)" from [University of Tehran](https://ut.ac.ir/en) (In Persian).
-* [2008 September] Joined [University of Tehran](https://ut.ac.ir/en) as a **B.Sc. Student**.
+* [2022 June] Submitted **journal** paper "[Curriculum Learning for Goal-Oriented Semantic Communications with a Common Language](https://arxiv.org/abs/2111.08051)" to *IEEE Transactions on Communications*.
+* [2022 May] Presented **conference** paper "[Common Language for Goal-Oriented Semantic Communications: A Curriculum Learning Framework](https://arxiv.org/abs/2111.08051)" in *IEEE International Conference on Communications (ICC)* at Seoul, South Korea.
+* [2022 May] Passed **Ph.D. Qualification Exam**.
+* [2021 August] Joined [Wireless@VirginiaTech](https://wireless.vt.edu) as a **Ph.D. Student**.
+* [2020 September] Defended **Ph.D. Dissertation** with title from [University of Tehran](https://ut.ac.ir/en).
+* [2019 December] **Journal** paper "[Reliability Aware Service Placement Using a Viterbi-Based Algorithm](https://ieeexplore.ieee.org/abstract/document/8933111)" is published in *IEEE Transactions on Network and Service Management*.
+* [2019 December] **Journal** paper "[A Dynamic Reliability-Aware Service Placement for Network Function Virtualization (NFV)](https://ieeexplore.ieee.org/abstract/document/8932394)" is published in *IEEE Journal on Selected Areas in Communications*.
+* * [2019 December] Presented **conference** papers "[Deep Reinforcement Learning for Dynamic Reliability Aware NFV-Based Service Provisioning](https://ieeexplore.ieee.org/abstract/document/9013214)" and "[Service Admission Control for 5G Mobile Networks with RAN and Core Slicing](https://ieeexplore.ieee.org/abstract/document/9013617)" in *IEEE Global Communications Conference (GLOBECOM)* at Waikoloa, Hawaii, USA.
+* [2018 Febuary] **Journal** paper "[Semi-myopic algorithm for resource allocation in wireless body area networks](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/iet-wss.2017.0063)" is published in *IET Wireless Sensor Systems*.
+* [2015 September] Joined [University of Tehran](https://ut.ac.ir/en) as an **Ph.D. Student**.
+* [2012 September] Joined [Sharif University of Tehran](https://en.sharif.edu/) as an **M.Sc. Student**.
+* [2008 September] Joined [Amirkabir University of Tehran](https://aut.ac.ir/en) as a **B.Sc. Student**.
