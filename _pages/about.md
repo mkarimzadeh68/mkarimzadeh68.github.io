@@ -9,16 +9,15 @@ redirect_from:
 ---  
 Welcome to my personal website!
 
-I am currently a second year Ph.D. student in the [Bradley Department of Electrical and Computer Engineering](https://ece.vt.edu) at [Virginia Tech](https://vt.edu) under supervision of [Walid Saad](https://www.netsciwis.com/). I received my B.Sc. and M.Sc. degrees in Electrical Engineering from the [University of Tehran](https://ut.ac.ir/en), Iran, in 2012 and 2014, respectively.
+I am currently a Ph.D. student in the [Bradley Department of Electrical and Computer Engineering](https://ece.vt.edu) at [Virginia Tech](https://vt.edu) under supervision of [Walid Saad](https://www.netsciwis.com/), since 2021. I received my B.Sc. degree in Electrical Engineering from the [Amirkabir University of Technology](https://aut.ac.ir/en), Iran in 2012, my M.Sc. degree in Electrical Engineering from the [Sharif University of Technology](https://en.sharif.edu/), Iran in 2014, and Ph.D. degree in Electrical Engineering from the [University of Tehran](https://ut.ac.ir/en), Iran in 2020, Iran, in 2012 and 2014, respectively.
 
 
 Research Interests
 ======
-1. 5G NR
-2. Wireless Communications
-3. UAV Communications
-4. Stochastic Geometry
-5. Channel Modeling
+1. Wireless Communications
+2. Semantic Communciation and Reasoning
+3. Machine Learning
+4. Network Softwarization
 
 News
 ======
