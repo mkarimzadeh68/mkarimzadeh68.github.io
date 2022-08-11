@@ -21,7 +21,7 @@ Journal Articles
 Conference Proceedings
 ---------------------
 
-[C4] **M. K. Farshbafan**, W. Saad, and M. Debbah, "Common Language for Goal-Oriented Semantic Communications: A Curriculum Learning Framework," accepted in *IEEE International Conference on Communications (ICC)*, Seoul, South Korea, May 2022. [[arXiv](https://arxiv.org/abs/2111.08051)]
+[C4] **M. K. Farshbafan**, W. Saad, and M. Debbah, "Common Language for Goal-Oriented Semantic Communications: A Curriculum Learning Framework," accepted in *IEEE International Conference on Communications (ICC)*, Seoul, South Korea, May 2022. [[IEEE Xplore](https://ieeexplore.ieee.org/document/9838724)] [[arXiv](https://arxiv.org/abs/2111.08051)]
 
 [C3] K. Noroozi, **M. Karimzadeh-Farshbafan** and V. Shah-Mansouri, "Service Admission Control for 5G Mobile Networks with RAN and Core Slicing," in *IEEE Global Communications Conference (GLOBECOM)*, Waikoloa Village, HI, USA, December 2019, pp. 1-6. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9013617)]
 
