@@ -1,59 +1,52 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+You can download a pdf version of my CV [here](CV_MortezaBanagar.pdf).
 
 Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+-----------
+**Virginia Tech**, Blacksburg, VA, USA (Aug. 2021 -- Present)
+
+*Doctor of Philosophy in Electrical Engineering*
+* Advisor: [Dr. Walid Saad](https://www.netsciwis.com/)
+* Dissertation: Goal-Oriented Semantic Communication
+
+**University of Tehran**, Tehran, Iran (Sep. 2015 -- Sep. 2020)
+
+*Doctor of Philosophy in Electrical Engineering -- Communication Systems*
+* Advisor: [Dr. Vahid Shah-Mansouri](https://ece.ut.ac.ir/en/~vmansouri)
+* Dissertation: Resource Allocation and Orchestration for Virtual Network Function Placement by Providing Reliability
+
+**Sharif University of Technology**, Tehran, Iran (Sep. 2012 -- Aug. 2014)
+
+*Master of Science in Electrical Engineering -- Communication Systems*
+* Advisor: [Dr. Masoumeh Nasiri-Kenari](http://ee.sharif.ir/~mnasiri/), [Dr. Farid Ashtiani](http://sharif.edu/~ashtianimt/), 
+* Thesis: Energy Efficient Policies for TDMA based Wireless Body Area Network (WBAN)(Morteza_MSc_Thesis.pdf)
+
+**AmirKabir University of Technology**, Tehran, Iran (Sep. 2008 -- Sep. 2012)
+
+*Bachelor of Science in Electrical Engineering -- Telecommunications*
+* Advisor: [Dr. Hassan Aghaeinia](https://aut.ac.ir/cv/2032/HASSAN%20AGHAEINIA)
+* Project: Analysis and simulation of digital modulation recognition algorithm
 
 Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+-----------
+* **Research Assistant** (Aug. 2021 -- Present)
+  * [Virginia Tech](https://vt.edu)
+* **Research Assistant** (Sep. 2015 -- Sep. 2020)
+  * [University of Tehran](https://ut.ac.ir/en)
   
 Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+-----------
+* Programming: MATLAB, Python, C++
+* Applications: LaTeX, Microsoft Word/PowerPoint/Excel/Visio  
   
 Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+-----------
+I have served as a teaching assistant and tutor for several courses at Virginia Tech, University of Tehran, Sharif University of Technology, and AmirKabir University of Technology including **Signals and Systems**, **Convex Optimization**, **Game Theory**, **Date Networks**, **Advanced Date Networks**, **Communication Systems I**, and **Engineering Probability and Statistics**.
