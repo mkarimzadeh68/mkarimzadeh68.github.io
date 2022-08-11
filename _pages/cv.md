@@ -7,7 +7,6 @@ redirect_from:
   - /resume
 ---
 
-You can download a pdf version of my CV [here](CV_MortezaBanagar.pdf).
 
 Education
 -----------
