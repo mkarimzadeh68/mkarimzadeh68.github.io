@@ -32,7 +32,7 @@ Network Function Placement by Providing Reliability" from [University of Tehran]
 * [2019 December] Presented **conference** papers "[Deep Reinforcement Learning for Dynamic Reliability Aware NFV-Based Service Provisioning](https://ieeexplore.ieee.org/abstract/document/9013214)" and "[Service Admission Control for 5G Mobile Networks with RAN and Core Slicing](https://ieeexplore.ieee.org/abstract/document/9013617)" in *IEEE Global Communications Conference (GLOBECOM)* at Waikoloa, Hawaii, USA.
 * [2018 Febuary] **Journal** paper "[Semi-myopic algorithm for resource allocation in wireless body area networks](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/iet-wss.2017.0063)" is published in *IET Wireless Sensor Systems*.
 * [2015 September] Joined [University of Tehran](https://ut.ac.ir/en) as an **Ph.D. Student**.
-* [2014 August] Defended M.Sc. Thesis with title "Energy Efficient Policies for TDMA based Wireless Body Area Network (WBAN)" from [Sharif University of Tehran](https://en.sharif.edu/).
-* [2012 September] Joined [Sharif University of Tehran](https://en.sharif.edu/) as an **M.Sc. Student**.
-* [2012 September] Defended B.Sc. Thesis with title "Analysis and simulation of digital modulation recognition algorithm" from [Amirkabir University of Tehran](https://aut.ac.ir/en).
-* [2008 September] Joined [Amirkabir University of Tehran](https://aut.ac.ir/en) as a **B.Sc. Student**.
+* [2014 August] Defended M.Sc. Thesis with title "Energy Efficient Policies for TDMA based Wireless Body Area Network (WBAN)" from [Sharif University of Technology](https://en.sharif.edu/).
+* [2012 September] Joined [Sharif University of Technology](https://en.sharif.edu/) as an **M.Sc. Student**.
+* [2012 September] Defended B.Sc. Thesis with title "Analysis and simulation of digital modulation recognition algorithm" from [Amirkabir University of Technology](https://aut.ac.ir/en).
+* [2008 September] Joined [Amirkabir University of Technology](https://aut.ac.ir/en) as a **B.Sc. Student**.
