@@ -25,7 +25,7 @@ Education
 **Sharif University of Technology**, Tehran, Iran (Sep. 2012 -- Aug. 2014)
 
 *Master of Science in Electrical Engineering -- Communication Systems*
-* Advisor: [Dr. Masoumeh Nasiri-Kenari](http://ee.sharif.ir/~mnasiri/), [Dr. Farid Ashtiani](http://sharif.edu/~ashtianimt/), 
+* Advisors: [Dr. Masoumeh Nasiri-Kenari](http://ee.sharif.ir/~mnasiri/), [Dr. Farid Ashtiani](http://sharif.edu/~ashtianimt/), 
 * Thesis: Energy Efficient Policies for TDMA based Wireless Body Area Network (WBAN)(Morteza_MSc_Thesis.pdf)
 
 **AmirKabir University of Technology**, Tehran, Iran (Sep. 2008 -- Sep. 2012)
