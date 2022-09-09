@@ -15,7 +15,7 @@ I am currently a Ph.D. student in the [Bradley Department of Electrical and Comp
 Research Interests
 ======
 1. Wireless Communications
-2. Semantic Communciation and Reasoning
+2. Semantic Communication and Reasoning
 3. Machine Learning
 4. Network Softwarization
 
