@@ -21,6 +21,7 @@ Research Interests
 
 News
 ======
+* [2022 December] Accepted **journal** paper "[Curriculum Learning for Goal-Oriented Semantic Communications with a Common Language](https://arxiv.org/abs/2111.08051)" to *IEEE Transactions on Communications*.
 * [2022 June] Submitted **journal** paper "[Curriculum Learning for Goal-Oriented Semantic Communications with a Common Language](https://arxiv.org/abs/2111.08051)" to *IEEE Transactions on Communications*.
 * [2022 May] Presented **conference** paper "[Common Language for Goal-Oriented Semantic Communications: A Curriculum Learning Framework](https://ieeexplore.ieee.org/document/9838724)" in *IEEE International Conference on Communications (ICC)* at Seoul, South Korea.
 * [2022 May] Passed **Ph.D. Qualification Exam**.
