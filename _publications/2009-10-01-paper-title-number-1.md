@@ -10,7 +10,7 @@ You can find all my papers on my [Google Scholar profile](https://scholar.google
 Journal Articles
 ---------------------
 
-[J4] **M. K. Farshbafan**, W. Saad, and M. Debbah, "Curriculum Learning for Goal-Oriented Semantic Communications with a Common Language," Accepted in *IEEE Transactions on Communications*, June 2022. [https://ieeexplore.ieee.org/document/10016636] [[arXiv](https://arxiv.org/abs/2204.10429)]
+[J4] **M. K. Farshbafan**, W. Saad, and M. Debbah, "Curriculum Learning for Goal-Oriented Semantic Communications with a Common Language," Accepted in *IEEE Transactions on Communications*, June 2022. [[IEEE Xplore](https://ieeexplore.ieee.org/document/10016636)] [[arXiv](https://arxiv.org/abs/2204.10429)]
 
 [J3] **M. Karimzadeh-Farshbafan**, V. Shah-Mansouri, and D. Niyato, "Reliability aware service placement using a viterbi-based algorithm," *IEEE Transactions on Network and Service Management*, vol. 17, no. 1, pp. 622-636, December 2019. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/8933111)]
 
